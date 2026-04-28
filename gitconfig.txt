@@ -1,0 +1,13 @@
+-- Configuração do Git
+git config --global user.name EnzoZago10
+git config --global user.email enzozago2010@gmail.com
+
+-- Criando o projeto, especificando nome e template vazio
+npx create-expo-app@latest ToicoShoppingList --template blank
+
+-- Toda aula ao começar
+cd ToicoShoppingList
+npm i
+
+-- Executar o projeto
+npx expo start --tunnel
