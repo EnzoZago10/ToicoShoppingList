@@ -11,7 +11,7 @@ export default function Welcome() {
         />
       </View>
       <View style={styles.content}>
-        <Text style={styles.title}>Gallo Shopping List</Text>
+        <Text style={styles.title}>Toico Shopping List</Text>
         <Text style={styles.text}>
           Monte sua lista de compras e não esqueça mais
           o que precisa comprar ao sair de casa!!!
